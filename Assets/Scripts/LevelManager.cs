@@ -3,10 +3,13 @@ using System.Collections;
 
 public class LevelManager : MonoBehaviour {
 
+	public bool autoLoadNextLevel = false;
 	public float splashDelay = 5;
 	// Use this for initialization
 	void Start () {
-		Invoke ("LoadNextLevel", splashDelay);
+		if (autoLoadNextLevel == true) {
+			Invoke ("LoadNextLevel", splashDelay);
+		}
 	}
 
 	public void LoadNextLevel(){
