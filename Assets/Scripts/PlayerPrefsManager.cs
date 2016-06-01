@@ -38,10 +38,10 @@ public class PlayerPrefsManager : MonoBehaviour {
 	}
 
 	public static void setDifficulty(float difficulty){
-		if (difficulty <= 1 && difficulty >= 0) {
+		if (difficulty >= 1 && difficulty <= 3) {
 			PlayerPrefs.SetFloat (DIFFICULTY_KEY, difficulty);
 		} else {
-			Debug.LogError ("diffuculty not set in between 0 and 1");
+			Debug.LogError ("diffuculty not set in between 1 and 3");
 		}
 	}
 
