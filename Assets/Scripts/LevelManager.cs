@@ -8,7 +8,11 @@ public class LevelManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		if (autoLoadNextLevel == true) {
-			Invoke ("LoadNextLevel", splashDelay);
+			if (splashDelay <= 0) {
+				Debug.Log ("Please put a positive number in SplashDelay in seconds");
+			} else {
+				Invoke ("LoadNextLevel", splashDelay);
+			}
 		}
 	}
 

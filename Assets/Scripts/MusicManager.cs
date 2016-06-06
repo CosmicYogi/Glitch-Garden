@@ -9,6 +9,7 @@ public class MusicManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		audioSource = GetComponent<AudioSource> ();
+		audioSource.volume = PlayerPrefsManager.getMasterVolume (); //FOR SETTING UP THE DEFAULT VOLUME WHEN GAME LOADS.
 	}
 	
 	// Update is called once per frame
@@ -28,8 +29,10 @@ public class MusicManager : MonoBehaviour {
 		if (thisLevelMusic) { //If something is there in thisLevelMusic
 			audioSource.clip = thisLevelMusic;
 			audioSource.loop = true;
-			audioSource.Play();
+			audioSource.Play ();
 			//audioSource.GetComponent<AudioSource> ().Play;
+		} else {
+			Debug.Log ("Nothing in this level music" + thisLevelMusic);
 		}
 	}
 
