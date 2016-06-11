@@ -9,7 +9,11 @@ public class Shooter : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		projectileParent = GameObject.Find ("Projectile");
+
+		if (!projectileParent) {
+			projectileParent = new GameObject ("Projectiles");
+		}
 	}
 	
 	// Update is called once per frame
@@ -20,6 +24,6 @@ public class Shooter : MonoBehaviour {
 	void fireGun(){
 		GameObject newProjectile = Instantiate (projectile) as GameObject;
 		newProjectile.transform.parent = projectileParent.transform;
-		newProjectile.transform.position = gun.transform.position;
+		newProjectile.transform.position = gun.transform.position; 
 	}
 }
