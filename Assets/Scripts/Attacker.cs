@@ -23,7 +23,7 @@ public class Attacker : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(){
-		print (name + "Trigger Enter");
+		//print (name + "Trigger Enter");
 	}
 
 	void setCurrentSpeed(float speed){
@@ -31,7 +31,7 @@ public class Attacker : MonoBehaviour {
 	}
 
 	public void strikeCurrentTarget(float damage){
-		print (name + ",damaged amount " + damage);
+		//print (name + ",damaged amount " + damage);
 		currentTarget.GetComponent<Health> ().dealDamage (damage);
 	}
 

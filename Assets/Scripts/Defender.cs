@@ -14,6 +14,6 @@ public class Defender : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(){
-		print(name + "Trigger Enter");
+		//print(name + "Trigger Enter");
 	}
 }

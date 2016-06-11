@@ -9,7 +9,7 @@ public class Button : MonoBehaviour {
 	public static GameObject selectedDefender;
 	// Use this for initialization
 	void Start () {
-		this.GetComponent<SpriteRenderer> ().color = Color.black;
+		//this.GetComponent<SpriteRenderer> ().color = Color.black;
 		buttonArray = GameObject.FindObjectsOfType<Button> ();
 	}
 	
