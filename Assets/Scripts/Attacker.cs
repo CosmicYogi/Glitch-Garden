@@ -9,6 +9,8 @@ public class Attacker : MonoBehaviour {
 	private float currentSPeed;
 	private GameObject currentTarget;
 	private Animator anim;
+	[Tooltip ("Average number of seconds b/w appearences")]
+	public float seenEverySeconds;
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator> ();
@@ -38,4 +40,5 @@ public class Attacker : MonoBehaviour {
 	public void attack(GameObject obj){
 		currentTarget = obj;
 	}
+		
 }
