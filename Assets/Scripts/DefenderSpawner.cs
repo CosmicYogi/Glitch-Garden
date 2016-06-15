@@ -5,12 +5,15 @@ public class DefenderSpawner : MonoBehaviour {
 
 	public Camera myCamera;
 	private GameObject defenderParent;
+	private StarDisplay starDisplay;
 	// Use this for initialization
 	void Start () {
 		defenderParent = GameObject.Find ("defenderParent");
 		if (!defenderParent) {
 			defenderParent = new GameObject ("defenderParent");
 		}
+		starDisplay = GameObject.FindObjectOfType<StarDisplay> ();
+
 	}
 	
 	// Update is called once per frame
@@ -19,15 +22,19 @@ public class DefenderSpawner : MonoBehaviour {
 	}
 
 	void OnMouseDown(){
-		Vector2 position = snapToGrid (calculateWorldPointOfMouseClick ());
-		Vector3 positionToInstantiate = new Vector3 (position.x,position.y,-1);
-		// positionToInstantiate is made with X & Y coordinates with -1 z coordinates so that only 1 Defender instantiate on on position.
-		// Because if we make Z-coordinate -1 then it comes in front and because there is collider on every Defender so that collider - 
-		// - don't allows the instantiation of new Defender.
-		GameObject defender = Instantiate (Button.selectedDefender, positionToInstantiate, Quaternion.identity) as GameObject;
-		defender.transform.parent = defenderParent.transform;
 
 
+		if (starDisplay.useStars (Button.selectedDefender.GetComponent<Defender> ().starCost) == StarDisplay.Status.SUCCESS) {
+			Vector2 position = snapToGrid (calculateWorldPointOfMouseClick ());
+			Vector3 positionToInstantiate = new Vector3 (position.x, position.y, -1);
+			// positionToInstantiate is made with X & Y coordinates with -1 z coordinates so that only 1 Defender instantiate on on position.
+			// Because if we make Z-coordinate -1 then it comes in front and because there is collider on every Defender so that collider - 
+			// - don't allows the instantiation of new Defender.
+			GameObject defender = Instantiate (Button.selectedDefender, positionToInstantiate, Quaternion.identity) as GameObject;
+			defender.transform.parent = defenderParent.transform;
+		} else {
+			print ("not enough stars");
+		}
 	}
 
 	Vector2 calculateWorldPointOfMouseClick(){
