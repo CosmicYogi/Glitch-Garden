@@ -5,7 +5,8 @@ public class Spawner : MonoBehaviour {
 
 	// Use this for initialization
 	public GameObject[] attackerPrefabArray;
-	
+	[Range (2,7)]
+	public int inverseRateOfSpawning = 4;
 	// Update is called once per frame
 	void Update () {
 		foreach (GameObject thisAttacker in attackerPrefabArray) {
@@ -29,15 +30,9 @@ public class Spawner : MonoBehaviour {
 		if (Time.deltaTime > spawnsPerSecond) {
 			print ("Frame rate is acting as a CAP for Spawn Rate");
 		}
-		float threshold = spawnsPerSecond * Time.deltaTime / 4;
+		float threshold = spawnsPerSecond * Time.deltaTime / inverseRateOfSpawning;
 
-		if (Random.value < threshold) {
-			return true;
-		} else {
-			return false;
-		}
-
-		//return true;
+		return (Random.value < threshold);
 	}
 
 
