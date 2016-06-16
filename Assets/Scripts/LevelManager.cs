@@ -16,6 +16,15 @@ public class LevelManager : MonoBehaviour {
 		}
 	}
 
+	void Update(){
+			if (Input.GetKeyDown(KeyCode.Escape)){
+			if (UnityEngine.SceneManagement.SceneManager.GetActiveScene ().name == "01a Start") {
+				Application.Quit();
+			} else {
+				LoadLevel ("01a Start");
+			}
+		}
+	}
 	public void LoadNextLevel(){
 		UnityEngine.SceneManagement.SceneManager.LoadScene 
 			(UnityEngine.SceneManagement.SceneManager.GetActiveScene ().buildIndex + 1);
@@ -27,4 +36,5 @@ public class LevelManager : MonoBehaviour {
 		Debug.Log ("Quit Requested");
 		Application.Quit ();
 	}
+
 }
