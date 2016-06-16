@@ -36,5 +36,8 @@ public class LevelManager : MonoBehaviour {
 		Debug.Log ("Quit Requested");
 		Application.Quit ();
 	}
-
+	public void LoadCurrentLevel(){
+		UnityEngine.SceneManagement.SceneManager.LoadScene (UnityEngine.SceneManagement.SceneManager.GetActiveScene ().name);
+		print ("Load current Level() called");
+	}
 }
