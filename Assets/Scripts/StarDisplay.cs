@@ -5,7 +5,7 @@ using UnityEngine.UI;
 [RequireComponent (typeof(Text))]
 public class StarDisplay : MonoBehaviour {
 
-	private int numberOfStars = 100;
+	public int numberOfStars = 50;
 	private Text starText;
 	public enum Status {SUCCESS,FAILURE}
 		

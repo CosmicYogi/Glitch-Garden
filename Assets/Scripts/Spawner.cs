@@ -5,7 +5,7 @@ public class Spawner : MonoBehaviour {
 
 	// Use this for initialization
 	public GameObject[] attackerPrefabArray;
-	[Range (2,7)]
+	[Range (2,12)]
 	public int inverseRateOfSpawning = 4;
 	// Update is called once per frame
 	void Update () {
