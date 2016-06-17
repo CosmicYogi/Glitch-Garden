@@ -6,6 +6,7 @@ public class PlayerPrefsManager : MonoBehaviour {
 	const string MASTER_VOLUME_KEY = "master_volume";
 	const string DIFFICULTY_KEY = "difficulty";
 	const string LEVEL_KEY = "level_unlocked_";
+	const string MASK_FIRST_TIME = "Level_mask";
 
 	public static void setMasterVolume (float volume){
 		if (volume >= 0 && volume <= 1) {
@@ -47,5 +48,13 @@ public class PlayerPrefsManager : MonoBehaviour {
 
 	public static float getDifficulty(){
 		return PlayerPrefs.GetFloat (DIFFICULTY_KEY);
+	}
+
+	public static void setFirstTimeMaskIndicator(){
+		// 1 for set and 0 for not.
+		PlayerPrefs.SetInt(MASK_FIRST_TIME,1);
+	}
+	public static int getFirstTimeMaskIndicator(){
+		return PlayerPrefs.GetInt (MASK_FIRST_TIME);
 	}
 }
