@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 937697c747e814f2480e2613f10317a5
+timeCreated: 1466260284
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_chicken__x1_pecking_once_png_1354830398_0
+    21300002: npc_chicken__x1_pecking_once_png_1354830398_1
+    21300004: npc_chicken__x1_pecking_once_png_1354830398_2
+    21300006: npc_chicken__x1_pecking_once_png_1354830398_3
+    21300008: npc_chicken__x1_pecking_once_png_1354830398_4
+    21300010: npc_chicken__x1_pecking_once_png_1354830398_5
+    21300012: npc_chicken__x1_pecking_once_png_1354830398_6
+    21300014: npc_chicken__x1_pecking_once_png_1354830398_7
+    21300016: npc_chicken__x1_pecking_once_png_1354830398_8
+    21300018: npc_chicken__x1_pecking_once_png_1354830398_9
+    21300020: npc_chicken__x1_pecking_once_png_1354830398_10
+    21300022: npc_chicken__x1_pecking_once_png_1354830398_11
+    21300024: npc_chicken__x1_pecking_once_png_1354830398_12
+    21300026: npc_chicken__x1_pecking_once_png_1354830398_13
+    21300028: npc_chicken__x1_pecking_once_png_1354830398_14
+    21300030: npc_chicken__x1_pecking_once_png_1354830398_15
+    21300032: npc_chicken__x1_pecking_once_png_1354830398_16
+    21300034: npc_chicken__x1_pecking_once_png_1354830398_17
+    21300036: npc_chicken__x1_pecking_once_png_1354830398_18
+    21300038: npc_chicken__x1_pecking_once_png_1354830398_19
+    21300040: npc_chicken__x1_pecking_once_png_1354830398_20
+    21300042: npc_chicken__x1_pecking_once_png_1354830398_21
+    21300044: npc_chicken__x1_pecking_once_png_1354830398_22
+    21300046: npc_chicken__x1_pecking_once_png_1354830398_23
+    21300048: npc_chicken__x1_pecking_once_png_1354830398_24
+    21300050: npc_chicken__x1_pecking_once_png_1354830398_25
+    21300052: npc_chicken__x1_pecking_once_png_1354830398_26
+    21300054: npc_chicken__x1_pecking_once_png_1354830398_27
+    21300056: npc_chicken__x1_pecking_once_png_1354830398_28
+    21300058: npc_chicken__x1_pecking_once_png_1354830398_29
+    21300060: npc_chicken__x1_pecking_once_png_1354830398_30
+    21300062: npc_chicken__x1_pecking_once_png_1354830398_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_chicken__x1_pecking_once_png_1354830398_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 550
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 21}
+        - {x: 3, y: 15}
+        - {x: 3, y: -24}
+        - {x: 12, y: -46}
+        - {x: 53, y: -46}
+        - {x: 60, y: -28}
+        - {x: 60, y: 12}
+        - {x: 55, y: 21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 550
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 21}
+        - {x: 3, y: 20}
+        - {x: 3, y: -19}
+        - {x: 19, y: -44}
+        - {x: 24, y: -46}
+        - {x: 58, y: -46}
+        - {x: 62, y: -34}
+        - {x: 62, y: 21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 550
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -16}
+        - {x: 64, y: 20}
+        - {x: 40, y: 20}
+        - {x: 3, y: 13}
+        - {x: 3, y: -27}
+        - {x: 9, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 63, y: -24}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 550
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -16}
+        - {x: 64, y: 20}
+        - {x: 40, y: 20}
+        - {x: 3, y: 13}
+        - {x: 3, y: -27}
+        - {x: 9, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 63, y: -24}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 550
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -31}
+        - {x: 59, y: -46}
+        - {x: 62, y: -46}
+        - {x: 73, y: -43}
+        - {x: 73, y: -20}
+        - {x: 64, y: -1}
+        - {x: 20, y: 10}
+        - {x: 11, y: 10}
+        - {x: 6, y: 1}
+        - {x: 6, y: -17}
+        - {x: 16, y: -42}
+        - {x: 26, y: -46}
+        - {x: 49, y: -46}
+        - {x: 49, y: -45}
+        - {x: 50, y: -39}
+        - {x: 48, y: -36}
+        - {x: 42, y: -34}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -31}
+        - {x: 59, y: -46}
+        - {x: 62, y: -46}
+        - {x: 73, y: -43}
+        - {x: 73, y: -20}
+        - {x: 64, y: -1}
+        - {x: 20, y: 10}
+        - {x: 11, y: 10}
+        - {x: 6, y: 1}
+        - {x: 6, y: -17}
+        - {x: 16, y: -42}
+        - {x: 26, y: -46}
+        - {x: 49, y: -46}
+        - {x: 49, y: -45}
+        - {x: 50, y: -39}
+        - {x: 48, y: -36}
+        - {x: 42, y: -34}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 440
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: -46}
+        - {x: 73, y: -46}
+        - {x: 73, y: -7}
+        - {x: 56, y: -1}
+        - {x: 20, y: 10}
+        - {x: 10, y: 10}
+        - {x: 6, y: 2}
+        - {x: 6, y: -17}
+        - {x: 16, y: -42}
+        - {x: 26, y: -46}
+        - {x: 49, y: -46}
+        - {x: 49, y: -45}
+        - {x: 50, y: -39}
+        - {x: 48, y: -35}
+        - {x: 60, y: -44}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 440
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -43}
+        - {x: 74, y: -32}
+        - {x: 74, y: -22}
+        - {x: 73, y: -17}
+        - {x: 51, y: -1}
+        - {x: 21, y: 10}
+        - {x: 7, y: 10}
+        - {x: 6, y: 9}
+        - {x: 6, y: -25}
+        - {x: 9, y: -37}
+        - {x: 22, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 60, y: -43}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 440
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 9}
+        - {x: 5, y: -19}
+        - {x: 18, y: -46}
+        - {x: 61, y: -46}
+        - {x: 74, y: -37}
+        - {x: 74, y: -9}
+        - {x: 36, y: 9}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 440
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: -1}
+        - {x: 64, y: 6}
+        - {x: 4, y: 6}
+        - {x: 4, y: -21}
+        - {x: 19, y: -44}
+        - {x: 28, y: -46}
+        - {x: 50, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 72, y: -22}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_11
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 440
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -4}
+        - {x: 59, y: 13}
+        - {x: 54, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 9}
+        - {x: 3, y: -21}
+        - {x: 19, y: -44}
+        - {x: 28, y: -46}
+        - {x: 50, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 56, y: -22}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 21}
+        - {x: 3, y: 15}
+        - {x: 3, y: -20}
+        - {x: 24, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 59, y: -33}
+        - {x: 59, y: 21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 21}
+        - {x: 3, y: 15}
+        - {x: 3, y: -20}
+        - {x: 24, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 59, y: -33}
+        - {x: 59, y: 21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 21}
+        - {x: 3, y: 15}
+        - {x: 3, y: -20}
+        - {x: 24, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 59, y: -33}
+        - {x: 59, y: 21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -25}
+        - {x: 4, y: -27}
+        - {x: 22, y: -46}
+        - {x: 59, y: -46}
+        - {x: 59, y: 21}
+        - {x: 17, y: 21}
+        - {x: 3, y: 11}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: 3, y: 19}
+        - {x: 3, y: -22}
+        - {x: 20, y: -46}
+        - {x: 50, y: -46}
+        - {x: 59, y: -27}
+        - {x: 59, y: 21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 330
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 21}
+        - {x: 3, y: 3}
+        - {x: 3, y: -35}
+        - {x: 18, y: -46}
+        - {x: 59, y: -46}
+        - {x: 59, y: 21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -20}
+        - {x: 59, y: 12}
+        - {x: 56, y: 21}
+        - {x: 25, y: 21}
+        - {x: 3, y: 12}
+        - {x: 3, y: -26}
+        - {x: 12, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 42, y: -34}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -12}
+        - {x: 59, y: 15}
+        - {x: 51, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 6}
+        - {x: 3, y: -24}
+        - {x: 17, y: -42}
+        - {x: 27, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 57, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 21}
+        - {x: 3, y: 6}
+        - {x: 3, y: -22}
+        - {x: 19, y: -44}
+        - {x: 28, y: -46}
+        - {x: 51, y: -46}
+        - {x: 59, y: -33}
+        - {x: 59, y: 21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 19}
+        - {x: 58, y: 21}
+        - {x: 26, y: 21}
+        - {x: 3, y: 14}
+        - {x: 3, y: -19}
+        - {x: 15, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_22
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_23
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 220
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_28
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_29
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 110
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    - name: npc_chicken__x1_pecking_once_png_1354830398_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 148
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: -12}
+        - {x: 60, y: 14}
+        - {x: 50, y: 21}
+        - {x: 33, y: 21}
+        - {x: 3, y: 11}
+        - {x: 3, y: -27}
+        - {x: 14, y: -45}
+        - {x: 28, y: -46}
+        - {x: 48, y: -46}
+        - {x: 51, y: -39}
+        - {x: 48, y: -36}
+        - {x: 58, y: -21}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

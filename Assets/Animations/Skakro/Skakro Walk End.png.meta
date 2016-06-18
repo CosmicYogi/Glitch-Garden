@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: b109975b3949e4094b630576a408aba2
+timeCreated: 1466263109
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_gardening_vendor__x1_walk_end_png_1354831000_0
+    21300002: npc_gardening_vendor__x1_walk_end_png_1354831000_1
+    21300004: npc_gardening_vendor__x1_walk_end_png_1354831000_2
+    21300006: npc_gardening_vendor__x1_walk_end_png_1354831000_3
+    21300008: npc_gardening_vendor__x1_walk_end_png_1354831000_4
+    21300010: npc_gardening_vendor__x1_walk_end_png_1354831000_5
+    21300012: npc_gardening_vendor__x1_walk_end_png_1354831000_6
+    21300014: npc_gardening_vendor__x1_walk_end_png_1354831000_7
+    21300016: npc_gardening_vendor__x1_walk_end_png_1354831000_8
+    21300018: npc_gardening_vendor__x1_walk_end_png_1354831000_9
+    21300020: npc_gardening_vendor__x1_walk_end_png_1354831000_10
+    21300022: npc_gardening_vendor__x1_walk_end_png_1354831000_11
+    21300024: npc_gardening_vendor__x1_walk_end_png_1354831000_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: -99}
+        - {x: 71, y: -85}
+        - {x: 71, y: 9}
+        - {x: 68, y: 14}
+        - {x: 15, y: 75}
+        - {x: -27, y: 75}
+        - {x: -64, y: 48}
+        - {x: -88, y: 6}
+        - {x: -88, y: -14}
+        - {x: -85, y: -17}
+        - {x: -57, y: -28}
+        - {x: -40, y: -99}
+        - {x: 21, y: -99}
+        - {x: 25, y: -93}
+        - {x: 26, y: -89}
+        - {x: 46, y: -99}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: -44}
+        - {x: 72, y: -4}
+        - {x: 65, y: 14}
+        - {x: 18, y: 76}
+        - {x: -21, y: 76}
+        - {x: -37, y: 67}
+        - {x: -57, y: 56}
+        - {x: -87, y: 12}
+        - {x: -87, y: -18}
+        - {x: -84, y: -21}
+        - {x: -59, y: -29}
+        - {x: -54, y: -27}
+        - {x: -36, y: -99}
+        - {x: 20, y: -99}
+        - {x: 29, y: -88}
+        - {x: 18, y: -80}
+        - {x: 41, y: -59}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -79}
+        - {x: -1, y: -79}
+        - {x: 4, y: -64}
+        - {x: 3, y: -66}
+        - {x: 4, y: -70}
+        - {x: 4, y: -73}
+        - {x: 7, y: -76}
+        - {x: 16, y: -78}
+        - {x: 36, y: -59}
+        - {x: 24, y: -33}
+        - {x: 53, y: -41}
+        - {x: 73, y: -34}
+        - {x: 74, y: -34}
+        - {x: 74, y: 42}
+        - {x: 68, y: 55}
+        - {x: 26, y: 78}
+        - {x: 15, y: 81}
+        - {x: -21, y: 81}
+        - {x: -52, y: 59}
+        - {x: -58, y: 43}
+        - {x: -77, y: 14}
+        - {x: -81, y: 3}
+        - {x: -81, y: -17}
+        - {x: -68, y: -28}
+        - {x: -37, y: -99}
+        - {x: 20, y: -99}
+        - {x: 29, y: -88}
+        - {x: 18, y: -80}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_3
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 89}
+        - {x: -71, y: 72}
+        - {x: -71, y: -28}
+        - {x: -63, y: -27}
+        - {x: -60, y: -26}
+        - {x: -60, y: -22}
+        - {x: -61, y: -21}
+        - {x: -61, y: -19}
+        - {x: -60, y: -23}
+        - {x: -57, y: -29}
+        - {x: -33, y: -30}
+        - {x: -35, y: -44}
+        - {x: -20, y: -57}
+        - {x: -39, y: -85}
+        - {x: -36, y: -99}
+        - {x: 21, y: -99}
+        - {x: 76, y: -46}
+        - {x: 76, y: 19}
+        - {x: 44, y: 89}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_4
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 396
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 92}
+        - {x: -43, y: 92}
+        - {x: -62, y: 87}
+        - {x: -66, y: 71}
+        - {x: -66, y: -21}
+        - {x: -58, y: -29}
+        - {x: -55, y: -28}
+        - {x: -55, y: -24}
+        - {x: -56, y: -23}
+        - {x: -56, y: -21}
+        - {x: -56, y: -23}
+        - {x: -50, y: -30}
+        - {x: -30, y: -30}
+        - {x: -28, y: -23}
+        - {x: -17, y: -4}
+        - {x: -36, y: -43}
+        - {x: -39, y: -92}
+        - {x: -30, y: -99}
+        - {x: 19, y: -99}
+        - {x: 29, y: -88}
+        - {x: 75, y: -91}
+        - {x: 75, y: 26}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 91}
+        - {x: -23, y: 91}
+        - {x: -26, y: 89}
+        - {x: -53, y: 50}
+        - {x: -67, y: 4}
+        - {x: -67, y: -25}
+        - {x: -59, y: -28}
+        - {x: -41, y: -29}
+        - {x: -31, y: -28}
+        - {x: -29, y: -25}
+        - {x: -39, y: -44}
+        - {x: -39, y: -99}
+        - {x: 22, y: -99}
+        - {x: 50, y: -85}
+        - {x: 76, y: -45}
+        - {x: 76, y: 62}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -73}
+        - {x: 78, y: -71}
+        - {x: 78, y: 37}
+        - {x: 71, y: 56}
+        - {x: 29, y: 89}
+        - {x: -1, y: 89}
+        - {x: -25, y: 82}
+        - {x: -50, y: 52}
+        - {x: -70, y: 18}
+        - {x: -70, y: -53}
+        - {x: -48, y: -96}
+        - {x: -36, y: -99}
+        - {x: 22, y: -99}
+        - {x: 26, y: -94}
+        - {x: 26, y: -89}
+        - {x: 49, y: -83}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -80}
+        - {x: 31, y: -66}
+        - {x: 48, y: -41}
+        - {x: 55, y: -29}
+        - {x: 56, y: -26}
+        - {x: 56, y: -23}
+        - {x: 57, y: -34}
+        - {x: 65, y: -40}
+        - {x: 79, y: -36}
+        - {x: 80, y: -34}
+        - {x: 80, y: 7}
+        - {x: 67, y: 34}
+        - {x: 42, y: 87}
+        - {x: -4, y: 87}
+        - {x: -25, y: 75}
+        - {x: -48, y: 56}
+        - {x: -72, y: 22}
+        - {x: -72, y: -16}
+        - {x: -59, y: -29}
+        - {x: -36, y: -27}
+        - {x: -37, y: -45}
+        - {x: -39, y: -92}
+        - {x: -30, y: -99}
+        - {x: 16, y: -99}
+        - {x: 26, y: -94}
+        - {x: 26, y: -89}
+        - {x: 18, y: -80}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 86}
+        - {x: -73, y: 63}
+        - {x: -73, y: -52}
+        - {x: -40, y: -99}
+        - {x: 34, y: -99}
+        - {x: 80, y: -68}
+        - {x: 80, y: 69}
+        - {x: 32, y: 86}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_9
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 198
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 86}
+        - {x: -73, y: 63}
+        - {x: -73, y: -57}
+        - {x: -53, y: -99}
+        - {x: 34, y: -99}
+        - {x: 80, y: -77}
+        - {x: 80, y: 79}
+        - {x: 39, y: 86}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 86}
+        - {x: -73, y: 63}
+        - {x: -73, y: -52}
+        - {x: -40, y: -99}
+        - {x: 50, y: -99}
+        - {x: 80, y: -45}
+        - {x: 80, y: 32}
+        - {x: 28, y: 86}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 86}
+        - {x: -73, y: 63}
+        - {x: -73, y: -52}
+        - {x: -40, y: -99}
+        - {x: 50, y: -99}
+        - {x: 80, y: -45}
+        - {x: 80, y: 32}
+        - {x: 28, y: 86}
+    - name: npc_gardening_vendor__x1_walk_end_png_1354831000_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 86}
+        - {x: -73, y: 63}
+        - {x: -73, y: -52}
+        - {x: -40, y: -99}
+        - {x: 50, y: -99}
+        - {x: 80, y: -45}
+        - {x: 80, y: 32}
+        - {x: 28, y: 86}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
