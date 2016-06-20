@@ -22,19 +22,18 @@ public class MusicManager : MonoBehaviour {
 		Debug.Log ("Don't destry on load" + name); 
 	}
 
-	void OnLevelWasLoaded(int levelIndex){
-		AudioClip thisLevelMusic = levelMusicChangeArray [levelIndex];
-		Debug.Log ("Playing clip : " + thisLevelMusic);
-
-		if (thisLevelMusic) { //If something is there in thisLevelMusic
-			audioSource.clip = thisLevelMusic;
-			audioSource.loop = true;
-			audioSource.Play ();
-			//audioSource.GetComponent<AudioSource> ().Play;
-		} else {
-			Debug.Log ("Nothing in this level music" + thisLevelMusic);
-		}
-	}
+//	void OnLevelWasLoaded(int levelIndex){
+//		AudioClip thisLevelMusic = levelMusicChangeArray [levelIndex];
+//		Debug.Log ("Playing clip : " + thisLevelMusic);
+//
+//		if (thisLevelMusic) { //If something is there in thisLevelMusic
+//			audioSource.clip = thisLevelMusic;
+//			audioSource.loop = true;
+//			audioSource.Play ();
+//		} else {
+//			Debug.Log ("Nothing in this level music" + thisLevelMusic);
+//		}
+//	}
 
 	public void SetVolume(float volume){
 		audioSource.volume = volume;
