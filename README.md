@@ -3,7 +3,8 @@ Attackers are attacking defend the arena by spawning the defenders.
 Game available for downloading at
 <a href='https://play.google.com/store/apps/details?id=com.VirginMonkStudios.GlitchTheGame&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height = 100px/></a>
 ##Scripting Classes
-Attacker.cs - Controlles all the Attackers, Parent class of all the Attackers. (Lizard, Fox, Chicken, Piggy)
+<b>Attacker.cs</b> - Controlles all the Attackers, Parent class of all the Attackers. (Lizard, Fox, Chicken, Piggy).
+
 Button.cs - Responsible for taking the user from the user, as game is for touch screen mobile phones as well as Computers so the input is taken by the tap of user that tap is read by this Class.
 Chicken.cs - Manages the functionality of Chicken.
 Defender.cs - Controlles all the Defenders, Parent class of all the Defenders. (Tryphy, Cactus, Gnome, Grave Stome, Scarecrow)
